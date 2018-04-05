@@ -1,15 +1,4 @@
 When programming a large project, especially one that involves collaboration with other coders, things get messy really fast. Syncinc versions, keeping track of bug fixes, and reverting to specific changes all get increasingly hard to do with simply google docs or sharing text files with eachother. 
 
 That is where version control comes in. The most popular form of version control is Git, so that's what I'll talk about today. 
-
-First what you want to do is create a git repository. Github is an excellent and free service to help you manage the server-side Git, so we'll use that today. GO to github.com and follow the steps to create your git repo. 
-
-Here, I'll just setup a repo and add some files to it. After doing that, commit it with a message, and then push it to your remote repository. I already have my username and password setup, but you would need to do that for your first time pushing. 
-
-Not only can you keep track of files with commits, you cna also make branches to create different versions of the project. For example, if I wanted a version of the script that was significantly shorter, I would make a new branch, change, add, commit, and push it. 
-
-You can see that these changes are reflected on github. 
-
-This is just a short introduction to git and github, if you would like to know more, there are many tutorials on how it works online, I highly recommend the one shown on the screen here: https://guides.github.com/activities/hello-world/.
-
 Thanks for watching!
